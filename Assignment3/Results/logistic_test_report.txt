@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+    The thao     1.0000    0.9091    0.9524        11
+    Giai tri     0.9091    1.0000    0.9524        10
+
+    accuracy                         0.9524        21
+   macro avg     0.9545    0.9545    0.9524        21
+weighted avg     0.9567    0.9524    0.9524        21

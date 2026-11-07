@@ -1,0 +1,10 @@
+{
+    "max_features": 5000,
+    "min_df": 2,
+    "max_df_ratio": 0.95,
+    "use_bigram": true,
+    "number_of_features": 5000,
+    "normalization": "L2",
+    "tf_method": "1 + log(count)",
+    "idf_method": "log((N + 1) / (DF + 1)) + 1"
+}

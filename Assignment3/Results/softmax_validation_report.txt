@@ -1,0 +1,16 @@
+VALIDATION EVALUATION\nAccuracy: 0.8762\n\n                    precision    recall  f1-score   support
+
+           Thoi su     0.6667    0.9091    0.7692        11
+          The gioi     0.8750    0.7000    0.7778        10
+        Kinh doanh     0.9000    0.9000    0.9000        10
+Khoa hoc cong nghe     0.8182    0.8182    0.8182        11
+      Bat dong san     0.9091    0.9091    0.9091        11
+          Suc khoe     0.9167    1.0000    0.9565        11
+          The thao     1.0000    1.0000    1.0000        10
+          Giai tri     1.0000    0.8182    0.9000        11
+         Phap luat     0.8182    0.9000    0.8571        10
+          Giao duc     1.0000    0.8000    0.8889        10
+
+          accuracy                         0.8762       105
+         macro avg     0.8904    0.8755    0.8777       105
+      weighted avg     0.8890    0.8762    0.8773       105
